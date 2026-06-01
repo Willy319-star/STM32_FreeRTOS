@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/STM32_FreeRTOS/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

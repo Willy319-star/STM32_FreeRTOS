@@ -1,0 +1,3 @@
+D:/STM32_FreeRTOS/build/CMakeFiles/STM32_FreeRTOS.elf.dir
+D:/STM32_FreeRTOS/build/CMakeFiles/edit_cache.dir
+D:/STM32_FreeRTOS/build/CMakeFiles/rebuild_cache.dir

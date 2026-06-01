@@ -1,0 +1,1597 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                              CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj (__aeabi_uldivmod)
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                              C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+                              C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-exit.o)
+                              C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (exit)
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+                              C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-exit.o) (__stdio_exit_handler)
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-fwalk.o)
+                              C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o) (_fwalk_sglue)
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o)
+                              C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o) (__sread)
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-memset.o)
+                              C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (memset)
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-closer.o)
+                              C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o) (_close_r)
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-reent.o)
+                              C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-closer.o) (errno)
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-impure.o)
+                              C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-reent.o) (_impure_ptr)
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lseekr.o)
+                              C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o) (_lseek_r)
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-readr.o)
+                              C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o) (_read_r)
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-writer.o)
+                              C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o) (_write_r)
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-errno.o)
+                              CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/syscalls.c.obj (__errno)
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-init.o)
+                              C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+                              C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-memcpy-stub.o)
+                              CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj (memcpy)
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-freer.o)
+                              C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-reent.o) (_free_r)
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-mallocr.o)
+                              C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o) (_malloc_r)
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-mlock.o)
+                              C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-freer.o) (__malloc_lock)
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-fflush.o)
+                              C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o) (_fflush_r)
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-sbrkr.o)
+                              C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
+C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+                              C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-sbrkr.o) (_sbrk)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crti.o
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crti.o
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crti.o
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .init_array    0x00000000        0x4 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .fini_array    0x00000000        0x4 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .eh_frame      0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .tm_clone_table
+                0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text.deregister_tm_clones
+                0x00000000       0x1c C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text.register_tm_clones
+                0x00000000       0x24 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .data.__dso_handle
+                0x00000000        0x4 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text.__do_global_dtors_aux
+                0x00000000       0x28 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text.frame_dummy
+                0x00000000       0x24 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss.completed.1
+                0x00000000        0x1 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss.object.0  0x00000000       0x18 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x00000000       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x00000000       0x7c C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .debug_line_str
+                0x00000000       0xd3 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.c.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.c.obj
+ .rodata.APBPrescTable
+                0x00000000        0x8 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x00000000       0xec CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.c.obj
+ .text          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DeInit
+                0x00000000       0x5c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_MspDeInit
+                0x00000000        0xc CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_IncTick
+                0x00000000       0x24 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetTickPrio
+                0x00000000       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_SetTickFreq
+                0x00000000       0x50 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetTickFreq
+                0x00000000       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_Delay
+                0x00000000       0x48 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_SuspendTick
+                0x00000000       0x1c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_ResumeTick
+                0x00000000       0x1c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetHalVersion
+                0x00000000       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetREVID
+                0x00000000       0x18 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetDEVID
+                0x00000000       0x18 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x1c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x1c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x1c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x1c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x1c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x1c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_EnableCompensationCell
+                0x00000000       0x18 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DisableCompensationCell
+                0x00000000       0x18 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetUIDw0
+                0x00000000       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetUIDw1
+                0x00000000       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetUIDw2
+                0x00000000       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.__NVIC_EnableIRQ
+                0x00000000       0x38 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.__NVIC_DisableIRQ
+                0x00000000       0x48 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.__NVIC_GetPendingIRQ
+                0x00000000       0x40 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.__NVIC_SetPendingIRQ
+                0x00000000       0x3c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.__NVIC_ClearPendingIRQ
+                0x00000000       0x3c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.__NVIC_GetActive
+                0x00000000       0x40 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.__NVIC_GetPriority
+                0x00000000       0x4c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.NVIC_DecodePriority
+                0x00000000       0x6c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.__NVIC_SystemReset
+                0x00000000       0x2c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_EnableIRQ
+                0x00000000       0x1c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x1c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SystemReset
+                0x00000000        0x8 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_MPU_Disable
+                0x00000000       0x2c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_MPU_Enable
+                0x00000000       0x3c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_MPU_EnableRegion
+                0x00000000       0x28 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_MPU_DisableRegion
+                0x00000000       0x28 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_MPU_ConfigRegion
+                0x00000000       0x7c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_CORTEX_ClearEvent
+                0x00000000       0x10 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000        0xe CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x2c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x1e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x1e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x38 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0xc CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0xc CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .data.pFlash   0x00000000       0x20 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program
+                0x00000000       0xa4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program_IT
+                0x00000000       0x88 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_IRQHandler
+                0x00000000      0x138 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x00000000       0x12 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OperationErrorCallback
+                0x00000000       0x12 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Unlock
+                0x00000000       0x44 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Lock
+                0x00000000       0x20 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Unlock
+                0x00000000       0x38 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Lock
+                0x00000000       0x20 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Launch
+                0x00000000       0x28 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_GetError
+                0x00000000       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_WaitForLastOperation
+                0x00000000       0x80 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_Program_DoubleWord
+                0x00000000       0x64 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_Program_Word
+                0x00000000       0x44 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_Program_HalfWord
+                0x00000000       0x44 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_Program_Byte
+                0x00000000       0x40 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_SetErrorCode
+                0x00000000       0xac CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .comment       0x00000000       0x47 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase
+                0x00000000       0xdc CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase_IT
+                0x00000000       0x98 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBProgram
+                0x00000000       0xdc CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetConfig
+                0x00000000       0x46 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_MassErase
+                0x00000000       0x44 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_Erase_Sector
+                0x00000000       0x90 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_EnableWRP
+                0x00000000       0x44 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_DisableWRP
+                0x00000000       0x40 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_RDP_LevelConfig
+                0x00000000       0x34 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_UserConfig
+                0x00000000       0x5c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_BOR_LevelConfig
+                0x00000000       0x3c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetUser
+                0x00000000       0x1c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetWRP
+                0x00000000       0x18 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetRDP
+                0x00000000       0x40 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetBOR
+                0x00000000       0x1c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_FlushCaches
+                0x00000000       0x88 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .comment       0x00000000       0x47 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_DeInit
+                0x00000000      0x1f4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_ReadPin
+                0x00000000       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x4e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000       0x30 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DeInit
+                0x00000000       0x28 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableBkUpAccess
+                0x00000000       0x28 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableBkUpAccess
+                0x00000000       0x28 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_ConfigPVD
+                0x00000000       0xbc CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnablePVD
+                0x00000000       0x18 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisablePVD
+                0x00000000       0x18 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableWakeUpPin
+                0x00000000       0x24 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableWakeUpPin
+                0x00000000       0x24 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSLEEPMode
+                0x00000000       0x3c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTOPMode
+                0x00000000       0x5c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x00000000       0x30 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVD_IRQHandler
+                0x00000000       0x24 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVDCallback
+                0x00000000        0xc CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSleepOnExit
+                0x00000000       0x1c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSleepOnExit
+                0x00000000       0x1c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSEVOnPend
+                0x00000000       0x1c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSEVOnPend
+                0x00000000       0x1c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .comment       0x00000000       0x47 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableBkUpReg
+                0x00000000       0x4c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableBkUpReg
+                0x00000000       0x4c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableFlashPowerDown
+                0x00000000       0x18 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableFlashPowerDown
+                0x00000000       0x18 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_GetVoltageRange
+                0x00000000       0x18 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_ControlVoltageScaling
+                0x00000000       0x84 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .comment       0x00000000       0x47 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_DeInit
+                0x00000000        0xe CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0xd0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableCSS
+                0x00000000       0x18 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_DisableCSS
+                0x00000000       0x18 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetHCLKFreq
+                0x00000000       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK1Freq
+                0x00000000       0x28 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK2Freq
+                0x00000000       0x28 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetOscConfig
+                0x00000000      0x128 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x60 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x28 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0xc CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x00000000      0x1c4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x00000000       0x58 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x00000000       0xbc CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_EnablePLLI2S
+                0x00000000       0x88 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_DisablePLLI2S
+                0x00000000       0x44 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCC_DeInit
+                0x00000000      0x19c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .comment       0x00000000       0x47 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/bsp/src/board.c.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/bsp/src/board.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/bsp/src/board.c.obj
+ .text.Board_LED_On
+                0x00000000       0x18 CMakeFiles/STM32_FreeRTOS.elf.dir/bsp/src/board.c.obj
+ .text          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/syscalls.c.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/syscalls.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/syscalls.c.obj
+ .text._close   0x00000000       0x1e CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/syscalls.c.obj
+ .text._fstat   0x00000000       0x1e CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/syscalls.c.obj
+ .text._isatty  0x00000000       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/syscalls.c.obj
+ .text._lseek   0x00000000       0x22 CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/syscalls.c.obj
+ .text._read    0x00000000       0x22 CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/syscalls.c.obj
+ .text._write   0x00000000       0x18 CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/syscalls.c.obj
+ .text._exit    0x00000000        0xc CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/syscalls.c.obj
+ .text._kill    0x00000000       0x20 CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/syscalls.c.obj
+ .text._getpid  0x00000000        0xe CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/syscalls.c.obj
+ .comment       0x00000000       0x47 CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/syscalls.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/syscalls.c.obj
+ .text          0x00000000       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/startup/startup_stm32f407xx.s.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/startup/startup_stm32f407xx.s.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/startup/startup_stm32f407xx.s.obj
+ .text          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/app/freertos_blink/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/app/freertos_blink/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/app/freertos_blink/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/interrupts_freertos.c.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/interrupts_freertos.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/interrupts_freertos.c.obj
+ .text.vApplicationGetIdleTaskMemory
+                0x00000000       0x16 CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/interrupts_freertos.c.obj
+ .text          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/croutine.c.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/croutine.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/croutine.c.obj
+ .comment       0x00000000       0x47 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/croutine.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/croutine.c.obj
+ .text          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/event_groups.c.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/event_groups.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/event_groups.c.obj
+ .text.xEventGroupCreate
+                0x00000000       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/event_groups.c.obj
+ .text.xEventGroupSync
+                0x00000000       0xf0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/event_groups.c.obj
+ .text.xEventGroupWaitBits
+                0x00000000      0x114 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/event_groups.c.obj
+ .text.xEventGroupClearBits
+                0x00000000       0x34 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/event_groups.c.obj
+ .text.xEventGroupGetBitsFromISR
+                0x00000000       0x46 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/event_groups.c.obj
+ .text.xEventGroupSetBits
+                0x00000000       0xda CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/event_groups.c.obj
+ .text.vEventGroupDelete
+                0x00000000       0x40 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/event_groups.c.obj
+ .text.vEventGroupSetBitsCallback
+                0x00000000       0x1a CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/event_groups.c.obj
+ .text.vEventGroupClearBitsCallback
+                0x00000000       0x1a CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/event_groups.c.obj
+ .text.prvTestWaitCondition
+                0x00000000       0x42 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/event_groups.c.obj
+ .comment       0x00000000       0x47 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/event_groups.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/event_groups.c.obj
+ .text          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/list.c.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/list.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/list.c.obj
+ .text          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.prvInitialiseMutex
+                0x00000000       0x34 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.xQueueCreateMutex
+                0x00000000       0x30 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.xQueueGiveMutexRecursive
+                0x00000000       0x4c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.xQueueTakeMutexRecursive
+                0x00000000       0x50 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.xQueueCreateCountingSemaphore
+                0x00000000       0x2c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.xQueueGiveFromISR
+                0x00000000       0xa8 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.xQueueSemaphoreTake
+                0x00000000      0x190 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.xQueuePeek
+                0x00000000      0x148 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.xQueueReceiveFromISR
+                0x00000000       0xae CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.xQueuePeekFromISR
+                0x00000000       0x66 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.uxQueueMessagesWaiting
+                0x00000000       0x20 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.uxQueueSpacesAvailable
+                0x00000000       0x2a CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000       0x1e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.vQueueDelete
+                0x00000000       0x20 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.prvGetDisinheritPriorityAfterTimeout
+                0x00000000       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000       0x2a CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.xQueueIsQueueFullFromISR
+                0x00000000       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.pcQueueGetName
+                0x00000000       0x4c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.vQueueUnregisterQueue
+                0x00000000       0x54 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .text.xStreamBufferGenericCreate
+                0x00000000       0x5c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .text.vStreamBufferDelete
+                0x00000000       0x32 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .text.xStreamBufferReset
+                0x00000000       0x50 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .text.xStreamBufferSetTriggerLevel
+                0x00000000       0x3e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .text.xStreamBufferSpacesAvailable
+                0x00000000       0x48 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .text.xStreamBufferBytesAvailable
+                0x00000000       0x1e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .text.xStreamBufferSend
+                0x00000000       0xf6 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .text.xStreamBufferSendFromISR
+                0x00000000       0xaa CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .text.prvWriteMessageToBuffer
+                0x00000000       0x7a CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .text.xStreamBufferReceive
+                0x00000000       0xd4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .text.xStreamBufferNextMessageLengthBytes
+                0x00000000       0x5a CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .text.xStreamBufferReceiveFromISR
+                0x00000000       0xa6 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .text.prvReadMessageFromBuffer
+                0x00000000       0x64 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .text.xStreamBufferIsEmpty
+                0x00000000       0x32 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .text.xStreamBufferIsFull
+                0x00000000       0x44 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .text.xStreamBufferSendCompletedFromISR
+                0x00000000       0x6a CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .text.xStreamBufferReceiveCompletedFromISR
+                0x00000000       0x6a CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .text.prvWriteBytesToBuffer
+                0x00000000       0x80 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .text.prvReadBytesFromBuffer
+                0x00000000       0x94 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .text.prvBytesInBuffer
+                0x00000000       0x3e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .text.prvInitialiseNewStreamBuffer
+                0x00000000       0x38 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .comment       0x00000000       0x47 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+ .text          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.vTaskDelete
+                0x00000000       0xc4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.vTaskDelayUntil
+                0x00000000       0xa0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.uxTaskPriorityGet
+                0x00000000       0x34 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.uxTaskPriorityGetFromISR
+                0x00000000       0x58 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.vTaskPrioritySet
+                0x00000000      0x120 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.vTaskSuspend
+                0x00000000       0xc8 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.prvTaskIsTaskSuspended
+                0x00000000       0x44 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.vTaskResume
+                0x00000000       0xa0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.xTaskResumeFromISR
+                0x00000000       0xc4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.vTaskEndScheduler
+                0x00000000       0x30 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.xTaskGetTickCountFromISR
+                0x00000000       0x20 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.uxTaskGetNumberOfTasks
+                0x00000000       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.pcTaskGetName
+                0x00000000       0x2c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.xTaskCatchUpTicks
+                0x00000000       0x30 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.vTaskPlaceOnUnorderedEventList
+                0x00000000       0x3c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.vTaskRemoveFromUnorderedEventList
+                0x00000000       0x88 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.vTaskSetTimeOutState
+                0x00000000       0x30 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.xTaskGetCurrentTaskHandle
+                0x00000000       0x1c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.xTaskPriorityInherit
+                0x00000000       0xd0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.vTaskPriorityDisinheritAfterTimeout
+                0x00000000       0xc0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.uxTaskResetEventItemValue
+                0x00000000       0x30 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.pvTaskIncrementMutexHeldCount
+                0x00000000       0x28 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.ulTaskNotifyTake
+                0x00000000       0x90 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.xTaskNotifyWait
+                0x00000000       0xb4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.xTaskGenericNotify
+                0x00000000      0x110 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.xTaskGenericNotifyFromISR
+                0x00000000      0x154 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.vTaskNotifyGiveFromISR
+                0x00000000       0xe8 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.xTaskNotifyStateClear
+                0x00000000       0x4c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.ulTaskNotifyValueClear
+                0x00000000       0x48 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .text.xTimerCreate
+                0x00000000       0x42 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .text.prvInitialiseNewTimer
+                0x00000000       0x5a CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .text.xTimerGetTimerDaemonTaskHandle
+                0x00000000       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .text.xTimerGetPeriod
+                0x00000000       0x1a CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .text.vTimerSetReloadMode
+                0x00000000       0x4a CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .text.uxTimerGetReloadMode
+                0x00000000       0x36 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .text.xTimerGetExpiryTime
+                0x00000000       0x1e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .text.pcTimerGetName
+                0x00000000       0x1a CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .text.xTimerIsTimerActive
+                0x00000000       0x36 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .text.pvTimerGetTimerID
+                0x00000000       0x24 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .text.vTimerSetTimerID
+                0x00000000       0x24 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .text          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c.obj
+ .text.vPortEndScheduler
+                0x00000000        0xc CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c.obj
+ .text          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ .data          0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ .rodata.xHeapStructSize
+                0x00000000        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ .text.xPortGetFreeHeapSize
+                0x00000000       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ .text.xPortGetMinimumEverFreeHeapSize
+                0x00000000       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ .text.vPortInitialiseBlocks
+                0x00000000        0xc CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ .text.vPortGetHeapStats
+                0x00000000       0xbc CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .ARM.extab.text.__udivmoddi4
+                0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-exit.o)
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-exit.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-exit.o)
+ .text.exit     0x00000000       0x24 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-exit.o)
+ .debug_frame   0x00000000       0x28 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-exit.o)
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.std      0x00000000       0x6c C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x00000000       0x18 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x00000000       0x40 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x18 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x18 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x00000000       0x40 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00000000        0xc C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_release
+                0x00000000        0xc C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.__sfp    0x00000000       0xa4 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.__sinit  0x00000000       0x30 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x1c C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x1c C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .data.__sglue  0x00000000        0xc C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .bss.__sf      0x00000000      0x138 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .bss.__stdio_exit_handler
+                0x00000000        0x4 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .debug_frame   0x00000000      0x144 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x00000000       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-findfp.o)
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-fwalk.o)
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-fwalk.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-fwalk.o)
+ .text._fwalk_sglue
+                0x00000000       0x3c C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-fwalk.o)
+ .debug_frame   0x00000000       0x34 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000000       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o)
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o)
+ .text.__sread  0x00000000       0x22 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o)
+ .text.__swrite
+                0x00000000       0x38 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o)
+ .text.__sseek  0x00000000       0x26 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o)
+ .text.__sclose
+                0x00000000        0x8 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o)
+ .debug_frame   0x00000000       0x88 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x00000000       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-stdio.o)
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-memset.o)
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-memset.o)
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-closer.o)
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-closer.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-closer.o)
+ .text._close_r
+                0x00000000       0x20 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-closer.o)
+ .debug_frame   0x00000000       0x2c C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-closer.o)
+ .ARM.attributes
+                0x00000000       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-closer.o)
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xbc C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-reent.o)
+ .bss.errno     0x00000000        0x4 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-reent.o)
+ .debug_frame   0x00000000       0x38 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-reent.o)
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-impure.o)
+ .data._impure_data
+                0x00000000       0x4c C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lseekr.o)
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lseekr.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lseekr.o)
+ .text._lseek_r
+                0x00000000       0x24 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lseekr.o)
+ .debug_frame   0x00000000       0x2c C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x00000000       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lseekr.o)
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-readr.o)
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-readr.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-readr.o)
+ .text._read_r  0x00000000       0x24 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-readr.o)
+ .debug_frame   0x00000000       0x2c C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-readr.o)
+ .ARM.attributes
+                0x00000000       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-readr.o)
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-writer.o)
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-writer.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-writer.o)
+ .text._write_r
+                0x00000000       0x24 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-writer.o)
+ .debug_frame   0x00000000       0x2c C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-writer.o)
+ .ARM.attributes
+                0x00000000       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-writer.o)
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-errno.o)
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-errno.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-errno.o)
+ .text.__errno  0x00000000        0xc C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-errno.o)
+ .debug_frame   0x00000000       0x20 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-errno.o)
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-init.o)
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x00000000        0x2 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x00000000        0x2 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .debug_frame   0x00000000       0xb0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .ARM.attributes
+                0x00000000       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-lock.o)
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-memcpy-stub.o)
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-memcpy-stub.o)
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-freer.o)
+ .text._free_r  0x00000000       0x94 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-freer.o)
+ .debug_frame   0x00000000       0x38 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-freer.o)
+ .ARM.attributes
+                0x00000000       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-mallocr.o)
+ .text.sbrk_aligned
+                0x00000000       0x44 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x100 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x00000000        0x4 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_free_list
+                0x00000000        0x4 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-mallocr.o)
+ .debug_frame   0x00000000       0x50 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000        0xc C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000        0xc C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-mlock.o)
+ .debug_frame   0x00000000       0x30 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-fflush.o)
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-fflush.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-fflush.o)
+ .text.__sflush_r
+                0x00000000       0xfc C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x50 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-fflush.o)
+ .text.fflush   0x00000000       0x28 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-fflush.o)
+ .debug_frame   0x00000000       0x5c C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x00000000       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x20 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+ .text._sbrk    0x00000000       0x1c C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+ .bss.heap_end.0
+                0x00000000        0x4 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+ .debug_frame   0x00000000       0x20 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x00000000       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtend.o
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtend.o
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtend.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtend.o
+ .tm_clone_table
+                0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtend.o
+ .text          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtn.o
+ .data          0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtn.o
+ .bss           0x00000000        0x0 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00020000         xrw
+FLASH            0x08000000         0x00080000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crti.o
+LOAD C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtbegin.o
+LOAD C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.c.obj
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/bsp/src/board.c.obj
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/syscalls.c.obj
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/startup/startup_stm32f407xx.s.obj
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/app/freertos_blink/main.c.obj
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/interrupts_freertos.c.obj
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/croutine.c.obj
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/event_groups.c.obj
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/list.c.obj
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/stream_buffer.c.obj
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c.obj
+LOAD CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+START GROUP
+LOAD C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a
+LOAD C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a
+END GROUP
+START GROUP
+LOAD C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a
+LOAD C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a
+LOAD C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a
+END GROUP
+START GROUP
+LOAD C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a
+LOAD C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a
+LOAD C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a
+END GROUP
+LOAD C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtend.o
+LOAD C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtn.o
+                0x20020000                        _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00000400                        _Min_Heap_Size = 0x400
+                0x00000800                        _Min_Stack_Size = 0x800
+
+.isr_vector     0x08000000      0x188
+                0x08000000                        . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 CMakeFiles/STM32_FreeRTOS.elf.dir/startup/startup_stm32f407xx.s.obj
+                0x08000000                g_pfnVectors
+                0x08000188                        . = ALIGN (0x4)
+
+.text           0x08000190     0x3478
+                0x08000190                        . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000190       0x30 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                0x08000190                __aeabi_uldivmod
+ .text          0x080001c0        0x4 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x080001c0                __aeabi_idiv0
+                0x080001c0                __aeabi_ldiv0
+ *(.text*)
+ .text.SystemInit
+                0x080001c4        0xc CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.c.obj
+                0x080001c4                SystemInit
+ .text.HAL_Init
+                0x080001d0       0x44 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x080001d0                HAL_Init
+ .text.HAL_MspInit
+                0x08000214        0xc CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x08000214                HAL_MspInit
+ .text.HAL_InitTick
+                0x08000220       0x60 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x08000220                HAL_InitTick
+ .text.HAL_GetTick
+                0x08000280       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x08000280                HAL_GetTick
+ .text.__NVIC_SetPriorityGrouping
+                0x08000294       0x48 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.__NVIC_GetPriorityGrouping
+                0x080002dc       0x1c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.__NVIC_SetPriority
+                0x080002f8       0x54 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.NVIC_EncodePriority
+                0x0800034c       0x64 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.SysTick_Config
+                0x080003b0       0x44 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x080003f4       0x16 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x080003f4                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x0800040a       0x38 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x0800040a                HAL_NVIC_SetPriority
+ .text.HAL_SYSTICK_Config
+                0x08000442       0x18 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x08000442                HAL_SYSTICK_Config
+ *fill*         0x0800045a        0x2 
+ .text.HAL_GPIO_Init
+                0x0800045c      0x334 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x0800045c                HAL_GPIO_Init
+ .text.HAL_GPIO_WritePin
+                0x08000790       0x30 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x08000790                HAL_GPIO_WritePin
+ .text.HAL_GPIO_TogglePin
+                0x080007c0       0x32 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x080007c0                HAL_GPIO_TogglePin
+ *fill*         0x080007f2        0x2 
+ .text.HAL_RCC_OscConfig
+                0x080007f4      0x4f0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x080007f4                HAL_RCC_OscConfig
+ .text.HAL_RCC_ClockConfig
+                0x08000ce4      0x1cc CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x08000ce4                HAL_RCC_ClockConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x08000eb0      0x218 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x08000eb0                HAL_RCC_GetSysClockFreq
+ .text.Board_Init
+                0x080010c8       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/bsp/src/board.c.obj
+                0x080010c8                Board_Init
+ .text.Board_Clock_Init
+                0x080010dc       0xd4 CMakeFiles/STM32_FreeRTOS.elf.dir/bsp/src/board.c.obj
+                0x080010dc                Board_Clock_Init
+ .text.Board_LED_Init
+                0x080011b0       0x60 CMakeFiles/STM32_FreeRTOS.elf.dir/bsp/src/board.c.obj
+                0x080011b0                Board_LED_Init
+ .text.Board_LED_Off
+                0x08001210       0x18 CMakeFiles/STM32_FreeRTOS.elf.dir/bsp/src/board.c.obj
+                0x08001210                Board_LED_Off
+ .text.Board_LED_Toggle
+                0x08001228       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/bsp/src/board.c.obj
+                0x08001228                Board_LED_Toggle
+ .text.Board_Error_Handler
+                0x0800123c        0xc CMakeFiles/STM32_FreeRTOS.elf.dir/bsp/src/board.c.obj
+                0x0800123c                Board_Error_Handler
+ .text.Reset_Handler
+                0x08001248       0x50 CMakeFiles/STM32_FreeRTOS.elf.dir/startup/startup_stm32f407xx.s.obj
+                0x08001248                Reset_Handler
+ .text.Default_Handler
+                0x08001298        0x2 CMakeFiles/STM32_FreeRTOS.elf.dir/startup/startup_stm32f407xx.s.obj
+                0x08001298                RTC_Alarm_IRQHandler
+                0x08001298                HASH_RNG_IRQHandler
+                0x08001298                EXTI2_IRQHandler
+                0x08001298                TIM8_CC_IRQHandler
+                0x08001298                DebugMon_Handler
+                0x08001298                TIM1_CC_IRQHandler
+                0x08001298                DMA2_Stream5_IRQHandler
+                0x08001298                HardFault_Handler
+                0x08001298                DMA1_Stream5_IRQHandler
+                0x08001298                PVD_IRQHandler
+                0x08001298                SDIO_IRQHandler
+                0x08001298                TAMP_STAMP_IRQHandler
+                0x08001298                NMI_Handler
+                0x08001298                CAN2_RX1_IRQHandler
+                0x08001298                EXTI3_IRQHandler
+                0x08001298                TIM8_TRG_COM_TIM14_IRQHandler
+                0x08001298                TIM1_UP_TIM10_IRQHandler
+                0x08001298                TIM8_UP_TIM13_IRQHandler
+                0x08001298                I2C3_ER_IRQHandler
+                0x08001298                EXTI0_IRQHandler
+                0x08001298                I2C2_EV_IRQHandler
+                0x08001298                DMA1_Stream2_IRQHandler
+                0x08001298                CAN1_RX0_IRQHandler
+                0x08001298                FPU_IRQHandler
+                0x08001298                OTG_HS_WKUP_IRQHandler
+                0x08001298                UsageFault_Handler
+                0x08001298                CAN2_SCE_IRQHandler
+                0x08001298                DMA2_Stream2_IRQHandler
+                0x08001298                SPI1_IRQHandler
+                0x08001298                TIM6_DAC_IRQHandler
+                0x08001298                TIM1_BRK_TIM9_IRQHandler
+                0x08001298                DCMI_IRQHandler
+                0x08001298                CAN2_RX0_IRQHandler
+                0x08001298                DMA2_Stream3_IRQHandler
+                0x08001298                USART6_IRQHandler
+                0x08001298                USART3_IRQHandler
+                0x08001298                CAN1_RX1_IRQHandler
+                0x08001298                UART5_IRQHandler
+                0x08001298                DMA2_Stream0_IRQHandler
+                0x08001298                TIM4_IRQHandler
+                0x08001298                I2C1_EV_IRQHandler
+                0x08001298                DMA1_Stream6_IRQHandler
+                0x08001298                DMA1_Stream1_IRQHandler
+                0x08001298                UART4_IRQHandler
+                0x08001298                TIM3_IRQHandler
+                0x08001298                RCC_IRQHandler
+                0x08001298                TIM8_BRK_TIM12_IRQHandler
+                0x08001298                Default_Handler
+                0x08001298                EXTI15_10_IRQHandler
+                0x08001298                ADC_IRQHandler
+                0x08001298                DMA1_Stream7_IRQHandler
+                0x08001298                TIM7_IRQHandler
+                0x08001298                CAN2_TX_IRQHandler
+                0x08001298                TIM5_IRQHandler
+                0x08001298                DMA2_Stream7_IRQHandler
+                0x08001298                I2C3_EV_IRQHandler
+                0x08001298                EXTI9_5_IRQHandler
+                0x08001298                RTC_WKUP_IRQHandler
+                0x08001298                ETH_WKUP_IRQHandler
+                0x08001298                SPI2_IRQHandler
+                0x08001298                OTG_HS_EP1_IN_IRQHandler
+                0x08001298                MemManage_Handler
+                0x08001298                DMA1_Stream0_IRQHandler
+                0x08001298                CAN1_TX_IRQHandler
+                0x08001298                EXTI4_IRQHandler
+                0x08001298                FSMC_IRQHandler
+                0x08001298                ETH_IRQHandler
+                0x08001298                OTG_HS_EP1_OUT_IRQHandler
+                0x08001298                WWDG_IRQHandler
+                0x08001298                TIM2_IRQHandler
+                0x08001298                OTG_FS_WKUP_IRQHandler
+                0x08001298                TIM1_TRG_COM_TIM11_IRQHandler
+                0x08001298                OTG_HS_IRQHandler
+                0x08001298                EXTI1_IRQHandler
+                0x08001298                USART2_IRQHandler
+                0x08001298                I2C2_ER_IRQHandler
+                0x08001298                DMA2_Stream1_IRQHandler
+                0x08001298                CAN1_SCE_IRQHandler
+                0x08001298                FLASH_IRQHandler
+                0x08001298                DMA2_Stream4_IRQHandler
+                0x08001298                BusFault_Handler
+                0x08001298                USART1_IRQHandler
+                0x08001298                OTG_FS_IRQHandler
+                0x08001298                SPI3_IRQHandler
+                0x08001298                DMA1_Stream4_IRQHandler
+                0x08001298                I2C1_ER_IRQHandler
+                0x08001298                DMA2_Stream6_IRQHandler
+                0x08001298                DMA1_Stream3_IRQHandler
+ .text.LED_Task
+                0x0800129a       0x18 CMakeFiles/STM32_FreeRTOS.elf.dir/app/freertos_blink/main.c.obj
+ *fill*         0x080012b2        0x2 
+ .text.main     0x080012b4       0x48 CMakeFiles/STM32_FreeRTOS.elf.dir/app/freertos_blink/main.c.obj
+                0x080012b4                main
+ .text.vApplicationMallocFailedHook
+                0x080012fc       0x1e CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/interrupts_freertos.c.obj
+                0x080012fc                vApplicationMallocFailedHook
+ .text.vApplicationStackOverflowHook
+                0x0800131a       0x22 CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/interrupts_freertos.c.obj
+                0x0800131a                vApplicationStackOverflowHook
+ .text.vListInitialise
+                0x0800133c       0x3e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/list.c.obj
+                0x0800133c                vListInitialise
+ .text.vListInitialiseItem
+                0x0800137a       0x18 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/list.c.obj
+                0x0800137a                vListInitialiseItem
+ .text.vListInsertEnd
+                0x08001392       0x46 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/list.c.obj
+                0x08001392                vListInsertEnd
+ .text.vListInsert
+                0x080013d8       0x70 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/list.c.obj
+                0x080013d8                vListInsert
+ .text.uxListRemove
+                0x08001448       0x52 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/list.c.obj
+                0x08001448                uxListRemove
+ *fill*         0x0800149a        0x2 
+ .text.xQueueGenericReset
+                0x0800149c       0xb4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+                0x0800149c                xQueueGenericReset
+ .text.xQueueGenericCreate
+                0x08001550       0x50 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+                0x08001550                xQueueGenericCreate
+ .text.prvInitialiseNewQueue
+                0x080015a0       0x3e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ *fill*         0x080015de        0x2 
+ .text.xQueueGenericSend
+                0x080015e0      0x154 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+                0x080015e0                xQueueGenericSend
+ .text.xQueueGenericSendFromISR
+                0x08001734       0xba CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+                0x08001734                xQueueGenericSendFromISR
+ *fill*         0x080017ee        0x2 
+ .text.xQueueReceive
+                0x080017f0      0x144 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+                0x080017f0                xQueueReceive
+ .text.prvCopyDataToQueue
+                0x08001934       0xd4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.prvCopyDataFromQueue
+                0x08001a08       0x4c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.prvUnlockQueue
+                0x08001a54       0xa4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.prvIsQueueEmpty
+                0x08001af8       0x2c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.prvIsQueueFull
+                0x08001b24       0x30 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .text.vQueueAddToRegistry
+                0x08001b54       0x50 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+                0x08001b54                vQueueAddToRegistry
+ .text.vQueueWaitForMessageRestricted
+                0x08001ba4       0x68 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+                0x08001ba4                vQueueWaitForMessageRestricted
+ .text.xTaskCreate
+                0x08001c0c       0x82 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+                0x08001c0c                xTaskCreate
+ .text.prvInitialiseNewTask
+                0x08001c8e       0xfe CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.prvAddNewTaskToReadyList
+                0x08001d8c       0xd8 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.vTaskDelay
+                0x08001e64       0x48 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+                0x08001e64                vTaskDelay
+ .text.vTaskStartScheduler
+                0x08001eac       0x7c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+                0x08001eac                vTaskStartScheduler
+ .text.vTaskSuspendAll
+                0x08001f28       0x1c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+                0x08001f28                vTaskSuspendAll
+ .text.xTaskResumeAll
+                0x08001f44      0x11c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+                0x08001f44                xTaskResumeAll
+ .text.xTaskGetTickCount
+                0x08002060       0x1c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+                0x08002060                xTaskGetTickCount
+ .text.xTaskIncrementTick
+                0x0800207c      0x150 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+                0x0800207c                xTaskIncrementTick
+ .text.vTaskSwitchContext
+                0x080021cc       0xe8 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+                0x080021cc                vTaskSwitchContext
+ .text.vTaskPlaceOnEventList
+                0x080022b4       0x2c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+                0x080022b4                vTaskPlaceOnEventList
+ .text.vTaskPlaceOnEventListRestricted
+                0x080022e0       0x3c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+                0x080022e0                vTaskPlaceOnEventListRestricted
+ .text.xTaskRemoveFromEventList
+                0x0800231c       0xac CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+                0x0800231c                xTaskRemoveFromEventList
+ .text.vTaskInternalSetTimeOutState
+                0x080023c8       0x2c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+                0x080023c8                vTaskInternalSetTimeOutState
+ .text.xTaskCheckForTimeOut
+                0x080023f4       0x8c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+                0x080023f4                xTaskCheckForTimeOut
+ .text.vTaskMissedYield
+                0x08002480       0x18 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+                0x08002480                vTaskMissedYield
+ .text.prvIdleTask
+                0x08002498       0x30 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.prvInitialiseTaskLists
+                0x080024c8       0x80 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.prvCheckTasksWaitingTermination
+                0x08002548       0x5c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.prvDeleteTCB
+                0x080025a4       0x20 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.prvResetNextTaskUnblockTime
+                0x080025c4       0x40 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.xTaskGetSchedulerState
+                0x08002604       0x3c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+                0x08002604                xTaskGetSchedulerState
+ .text.xTaskPriorityDisinherit
+                0x08002640       0x98 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+                0x08002640                xTaskPriorityDisinherit
+ .text.prvAddCurrentTaskToDelayedList
+                0x080026d8       0xa8 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .text.xTimerCreateTimerTask
+                0x08002780       0x48 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+                0x08002780                xTimerCreateTimerTask
+ .text.xTimerGenericCommand
+                0x080027c8       0x80 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+                0x080027c8                xTimerGenericCommand
+ .text.prvProcessExpiredTimer
+                0x08002848       0x80 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .text.prvTimerTask
+                0x080028c8       0x26 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ *fill*         0x080028ee        0x2 
+ .text.prvProcessTimerOrBlockTask
+                0x080028f0       0x9c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .text.prvGetNextExpireTime
+                0x0800298c       0x44 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .text.prvSampleTimeNow
+                0x080029d0       0x40 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .text.prvInsertTimerInActiveList
+                0x08002a10       0x84 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .text.prvProcessReceivedCommands
+                0x08002a94      0x154 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .text.prvSwitchTimerLists
+                0x08002be8       0xac CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .text.prvCheckForValidListAndQueue
+                0x08002c94       0x6c CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .text.pxPortInitialiseStack
+                0x08002d00       0x58 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c.obj
+                0x08002d00                pxPortInitialiseStack
+ .text.prvTaskExitError
+                0x08002d58       0x32 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c.obj
+ *fill*         0x08002d8a        0x6 
+ .text.SVC_Handler
+                0x08002d90       0x28 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c.obj
+                0x08002d90                SVC_Handler
+ .text.prvPortStartFirstTask
+                0x08002db8       0x20 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c.obj
+ .text.xPortStartScheduler
+                0x08002dd8       0x40 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c.obj
+                0x08002dd8                xPortStartScheduler
+ .text.vPortEnterCritical
+                0x08002e18       0x34 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c.obj
+                0x08002e18                vPortEnterCritical
+ .text.vPortExitCritical
+                0x08002e4c       0x34 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c.obj
+                0x08002e4c                vPortExitCritical
+ .text.PendSV_Handler
+                0x08002e80       0x48 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c.obj
+                0x08002e80                PendSV_Handler
+ .text.SysTick_Handler
+                0x08002ec8       0x44 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c.obj
+                0x08002ec8                SysTick_Handler
+ .text.vPortSetupTimerInterrupt
+                0x08002f0c       0x44 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c.obj
+                0x08002f0c                vPortSetupTimerInterrupt
+ .text.pvPortMalloc
+                0x08002f50      0x140 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+                0x08002f50                pvPortMalloc
+ .text.vPortFree
+                0x08003090       0x80 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+                0x08003090                vPortFree
+ .text.prvHeapInit
+                0x08003110       0xc4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ .text.prvInsertBlockIntoFreeList
+                0x080031d4       0xb0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ .text.__udivmoddi4
+                0x08003284      0x2f8 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                0x08003284                __udivmoddi4
+ .text.memset   0x0800357c       0x10 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-memset.o)
+                0x0800357c                memset
+ .text.__libc_init_array
+                0x0800358c       0x48 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-init.o)
+                0x0800358c                __libc_init_array
+ .text.memcpy   0x080035d4       0x1c C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-memcpy-stub.o)
+                0x080035d4                memcpy
+ *(.glue_7)
+ .glue_7        0x080035f0        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x080035f0        0x0 linker stubs
+ *(.eh_frame)
+ *(.init)
+ .init          0x080035f0        0x4 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crti.o
+                0x080035f0                _init
+ .init          0x080035f4        0x8 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x080035fc        0x4 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crti.o
+                0x080035fc                _fini
+ .fini          0x08003600        0x8 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtn.o
+                0x08003608                        . = ALIGN (0x4)
+                0x08003608                        _etext = .
+
+.vfp11_veneer   0x08003608        0x0
+ .vfp11_veneer  0x08003608        0x0 linker stubs
+
+.v4_bx          0x08003608        0x0
+ .v4_bx         0x08003608        0x0 linker stubs
+
+.iplt           0x08003608        0x0
+ .iplt          0x08003608        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+
+.rodata         0x08003608       0x2c
+                0x08003608                        . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x08003608        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/app/freertos_blink/main.c.obj
+ .rodata        0x0800360c        0x5 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ *fill*         0x08003611        0x3 
+ .rodata        0x08003614        0xd CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ *(.rodata*)
+ *fill*         0x08003621        0x3 
+ .rodata.AHBPrescTable
+                0x08003624       0x10 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.c.obj
+                0x08003624                AHBPrescTable
+                0x08003634                        . = ALIGN (0x4)
+                0x0800363c                        _sidata = LOADADDR (.data)
+
+.ARM.exidx.text.__udivmoddi4
+                0x08003634        0x8
+ .ARM.exidx.text.__udivmoddi4
+                0x08003634        0x8 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+
+.rel.dyn        0x0800363c        0x0
+ .rel.iplt      0x0800363c        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+
+.data           0x20000000       0x10 load address 0x0800363c
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _sdata = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x20000000        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.c.obj
+                0x20000000                SystemCoreClock
+ .data.uwTickPrio
+                0x20000004        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x20000004                uwTickPrio
+ .data.uwTickFreq
+                0x20000008        0x1 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x20000008                uwTickFreq
+ *fill*         0x20000009        0x3 
+ .data.uxCriticalNesting
+                0x2000000c        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c.obj
+                0x20000010                        . = ALIGN (0x4)
+                0x20000010                        _edata = .
+
+.igot.plt       0x20000010        0x0 load address 0x0800364c
+ .igot.plt      0x20000010        0x0 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+
+.bss            0x20000010     0x51a4 load address 0x0800364c
+                0x20000010                        . = ALIGN (0x4)
+                0x20000010                        _sbss = .
+ *(.bss)
+ *(.bss*)
+ .bss.uwTick    0x20000010        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x20000010                uwTick
+ .bss.xQueueRegistry
+                0x20000014       0x40 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+                0x20000014                xQueueRegistry
+ .bss.pxCurrentTCB
+                0x20000054        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+                0x20000054                pxCurrentTCB
+ .bss.pxReadyTasksLists
+                0x20000058       0x64 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .bss.xDelayedTaskList1
+                0x200000bc       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .bss.xDelayedTaskList2
+                0x200000d0       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .bss.pxDelayedTaskList
+                0x200000e4        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .bss.pxOverflowDelayedTaskList
+                0x200000e8        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .bss.xPendingReadyList
+                0x200000ec       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .bss.xTasksWaitingTermination
+                0x20000100       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .bss.uxDeletedTasksWaitingCleanUp
+                0x20000114        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .bss.xSuspendedTaskList
+                0x20000118       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .bss.uxCurrentNumberOfTasks
+                0x2000012c        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .bss.xTickCount
+                0x20000130        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .bss.uxTopReadyPriority
+                0x20000134        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .bss.xSchedulerRunning
+                0x20000138        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .bss.xPendedTicks
+                0x2000013c        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .bss.xYieldPending
+                0x20000140        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .bss.xNumOfOverflows
+                0x20000144        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .bss.uxTaskNumber
+                0x20000148        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .bss.xNextTaskUnblockTime
+                0x2000014c        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .bss.xIdleTaskHandle
+                0x20000150        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .bss.uxSchedulerSuspended
+                0x20000154        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .bss.xActiveTimerList1
+                0x20000158       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .bss.xActiveTimerList2
+                0x2000016c       0x14 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .bss.pxCurrentTimerList
+                0x20000180        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .bss.pxOverflowTimerList
+                0x20000184        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .bss.xTimerQueue
+                0x20000188        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .bss.xTimerTaskHandle
+                0x2000018c        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .bss.xLastTime.0
+                0x20000190        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .bss.ucHeap    0x20000194     0x5000 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ .bss.xStart    0x20005194        0x8 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ .bss.pxEnd     0x2000519c        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ .bss.xFreeBytesRemaining
+                0x200051a0        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ .bss.xMinimumEverFreeBytesRemaining
+                0x200051a4        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ .bss.xNumberOfSuccessfulAllocations
+                0x200051a8        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ .bss.xNumberOfSuccessfulFrees
+                0x200051ac        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ .bss.xBlockAllocatedBit
+                0x200051b0        0x4 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ *(COMMON)
+                0x200051b4                        . = ALIGN (0x4)
+                0x200051b4                        _ebss = .
+
+._user_heap_stack
+                0x200051b4      0xc04 load address 0x0800364c
+                0x200051b8                        . = ALIGN (0x8)
+ *fill*         0x200051b4        0x4 
+                0x200051b8                        PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x200055b8                        . = (. + _Min_Heap_Size)
+ *fill*         0x200051b8      0x400 
+                0x20005db8                        . = (. + _Min_Stack_Size)
+ *fill*         0x200055b8      0x800 
+                0x20005db8                        . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+OUTPUT(STM32_FreeRTOS.elf elf32-littlearm)
+LOAD linker stubs
+LOAD C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+LOAD C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a
+LOAD C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a
+
+.ARM.attributes
+                0x00000000       0x2a
+ .ARM.attributes
+                0x00000000       0x1e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.c.obj
+ .ARM.attributes
+                0x0000004c       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .ARM.attributes
+                0x0000007a       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .ARM.attributes
+                0x000000a8       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .ARM.attributes
+                0x000000d6       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .ARM.attributes
+                0x00000104       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/bsp/src/board.c.obj
+ .ARM.attributes
+                0x00000132       0x21 CMakeFiles/STM32_FreeRTOS.elf.dir/startup/startup_stm32f407xx.s.obj
+ .ARM.attributes
+                0x00000153       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/app/freertos_blink/main.c.obj
+ .ARM.attributes
+                0x00000181       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/interrupts_freertos.c.obj
+ .ARM.attributes
+                0x000001af       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/list.c.obj
+ .ARM.attributes
+                0x000001dd       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .ARM.attributes
+                0x0000020b       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .ARM.attributes
+                0x00000239       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .ARM.attributes
+                0x00000267       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c.obj
+ .ARM.attributes
+                0x00000295       0x2e CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ .ARM.attributes
+                0x000002c3       0x1e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x000002e1       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x0000030f       0x1e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000032d       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-memset.o)
+ .ARM.attributes
+                0x0000035b       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-init.o)
+ .ARM.attributes
+                0x00000389       0x2e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000003b7       0x1e C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp/crtn.o
+
+.comment        0x00000000       0x46
+ .comment       0x00000000       0x46 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/CMSIS/Device/ST/STM32F4xx/Source/system_stm32f4xx.c.obj
+                                 0x47 (size before relaxing)
+ .comment       0x00000046       0x47 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .comment       0x00000046       0x47 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .comment       0x00000046       0x47 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .comment       0x00000046       0x47 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .comment       0x00000046       0x47 CMakeFiles/STM32_FreeRTOS.elf.dir/bsp/src/board.c.obj
+ .comment       0x00000046       0x47 CMakeFiles/STM32_FreeRTOS.elf.dir/app/freertos_blink/main.c.obj
+ .comment       0x00000046       0x47 CMakeFiles/STM32_FreeRTOS.elf.dir/core/src/interrupts_freertos.c.obj
+ .comment       0x00000046       0x47 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/list.c.obj
+ .comment       0x00000046       0x47 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/queue.c.obj
+ .comment       0x00000046       0x47 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/tasks.c.obj
+ .comment       0x00000046       0x47 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/timers.c.obj
+ .comment       0x00000046       0x47 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.c.obj
+ .comment       0x00000046       0x47 CMakeFiles/STM32_FreeRTOS.elf.dir/third_party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+
+.debug_line_str
+                0x00000000       0xd2
+ .debug_line_str
+                0x00000000       0xd2 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                                 0xc6 (size before relaxing)
+ .debug_line_str
+                0x000000d2       0xca C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+
+.debug_frame    0x00000000       0xd4
+ .debug_frame   0x00000000       0x2c C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x0000002c       0x34 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000060       0x20 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-memset.o)
+ .debug_frame   0x00000080       0x2c C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-init.o)
+ .debug_frame   0x000000ac       0x28 C:/Users/EDY/tools/stm32/gcc/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a(libc_a-memcpy-stub.o)

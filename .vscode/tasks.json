@@ -1,0 +1,53 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "configure",
+            "type": "shell",
+            "command": "powershell",
+            "args": [
+                "-ExecutionPolicy",
+                "Bypass",
+                "-File",
+                "scripts/build.ps1",
+                "-App",
+                "freertos_blink",
+                "-ConfigureOnly"
+            ],
+            "group": "build",
+            "problemMatcher": []
+        },
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "powershell",
+            "args": [
+                "-ExecutionPolicy",
+                "Bypass",
+                "-File",
+                "scripts/build.ps1",
+                "-App",
+                "freertos_blink"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "dependsOn": "configure",
+            "problemMatcher": "$gcc"
+        },
+        {
+            "label": "flash",
+            "type": "shell",
+            "command": "powershell",
+            "args": [
+                "-ExecutionPolicy",
+                "Bypass",
+                "-File",
+                "scripts/flash.ps1"
+            ],
+            "dependsOn": "build",
+            "problemMatcher": []
+        }
+    ]
+}
