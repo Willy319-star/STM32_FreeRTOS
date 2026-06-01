@@ -1,0 +1,12 @@
+build/
+.claude/
+CMakeFiles/
+CMakeCache.txt
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.obj
+*.d
+.vscode/.cmaketools.json
