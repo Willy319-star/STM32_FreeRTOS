@@ -1,0 +1,8 @@
+interface:
+  display_name: "嵌入式实践学习教练"
+  short_description: "用实验、故障注入和面试复盘学习嵌入式开发"
+  default_prompt: >
+    使用 embedded-learning-coach。先判断 LEARN/BUILD/DEBUG/REVIEW/
+    INTERVIEW/RESUME 模式，再按实践优先流程指导我；不要一开始生成完整项目。
+policy:
+  allow_implicit_invocation: true
