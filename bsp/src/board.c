@@ -1,19 +1,8 @@
 #include "board.h"
 
-void Board_Init(void)
-{
-    HAL_Init();
-    Board_Clock_Init();
-    Board_LED_Init();
-}
-
-void Board_Clock_Init(void)
+static HAL_StatusTypeDef Board_Clock_TryHSE(void)
 {
     RCC_OscInitTypeDef osc = {0};
-    RCC_ClkInitTypeDef clk = {0};
-
-    __HAL_RCC_PWR_CLK_ENABLE();
-    __HAL_PWR_VOLTAGESCALING_CONFIG(PWR_REGULATOR_VOLTAGE_SCALE1);
 
     osc.OscillatorType = RCC_OSCILLATORTYPE_HSE;
     osc.HSEState = RCC_HSE_ON;
@@ -24,8 +13,44 @@ void Board_Clock_Init(void)
     osc.PLL.PLLP = RCC_PLLP_DIV2;
     osc.PLL.PLLQ = 7;
 
-    if (HAL_RCC_OscConfig(&osc) != HAL_OK) {
-        Board_Error_Handler();
+    return HAL_RCC_OscConfig(&osc);
+}
+
+static HAL_StatusTypeDef Board_Clock_TryHSI(void)
+{
+    RCC_OscInitTypeDef osc = {0};
+
+    osc.OscillatorType = RCC_OSCILLATORTYPE_HSI;
+    osc.HSIState = RCC_HSI_ON;
+    osc.HSICalibrationValue = RCC_HSICALIBRATION_DEFAULT;
+    osc.PLL.PLLState = RCC_PLL_ON;
+    osc.PLL.PLLSource = RCC_PLLSOURCE_HSI;
+    osc.PLL.PLLM = 16;
+    osc.PLL.PLLN = 336;
+    osc.PLL.PLLP = RCC_PLLP_DIV2;
+    osc.PLL.PLLQ = 7;
+
+    return HAL_RCC_OscConfig(&osc);
+}
+
+void Board_Init(void)
+{
+    HAL_Init();
+    Board_Clock_Init();
+    Board_LED_Init();
+}
+
+void Board_Clock_Init(void)
+{
+    RCC_ClkInitTypeDef clk = {0};
+
+    __HAL_RCC_PWR_CLK_ENABLE();
+    __HAL_PWR_VOLTAGESCALING_CONFIG(PWR_REGULATOR_VOLTAGE_SCALE1);
+
+    if (Board_Clock_TryHSE() != HAL_OK) {
+        if (Board_Clock_TryHSI() != HAL_OK) {
+            Board_Error_Handler();
+        }
     }
 
     clk.ClockType = RCC_CLOCKTYPE_HCLK | RCC_CLOCKTYPE_SYSCLK |
@@ -76,6 +101,11 @@ void Board_LED_Off(void)
 void Board_LED_Toggle(void)
 {
     HAL_GPIO_TogglePin(BOARD_LED_GPIO_PORT, BOARD_LED_GPIO_PIN);
+}
+
+void Board_LED_Release(void)
+{
+    HAL_GPIO_DeInit(BOARD_LED_GPIO_PORT, BOARD_LED_GPIO_PIN);
 }
 
 void Board_Error_Handler(void)

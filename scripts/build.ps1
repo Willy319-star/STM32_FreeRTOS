@@ -1,6 +1,6 @@
 param(
-    [ValidateSet("freertos_blink", "baremetal_blink")]
-    [string]$App = "freertos_blink",
+    [ValidateSet("STM32F407_FreeRTOS_multisensors", "baremetal_blink")]
+    [string]$App = "STM32F407_FreeRTOS_multisensors",
     [switch]$ConfigureOnly
 )
 

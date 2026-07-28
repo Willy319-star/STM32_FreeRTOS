@@ -1,7 +1,7 @@
 $ErrorActionPreference = "Stop"
 . "$PSScriptRoot\toolchain_env.ps1"
 $root = Split-Path -Parent $PSScriptRoot
-$elf = Join-Path $root "build\STM32_FreeRTOS.elf"
+$elf = Join-Path $root "build\STM32F407_FreeRTOS_multisensors.elf"
 
 if (!(Test-Path $elf)) {
     throw "ELF not found: $elf. Build first."

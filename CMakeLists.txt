@@ -3,10 +3,10 @@ cmake_minimum_required(VERSION 3.20)
 set(CMAKE_TOOLCHAIN_FILE "${CMAKE_CURRENT_LIST_DIR}/cmake/arm-none-eabi-gcc.cmake" CACHE FILEPATH "")
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
-project(STM32_FreeRTOS C ASM)
+project(STM32F407_FreeRTOS_multisensors C ASM)
 
-set(APP "freertos_blink" CACHE STRING "Application to build: baremetal_blink or freertos_blink")
-set_property(CACHE APP PROPERTY STRINGS baremetal_blink freertos_blink)
+set(APP "STM32F407_FreeRTOS_multisensors" CACHE STRING "Application to build: baremetal_blink or STM32F407_FreeRTOS_multisensors")
+set_property(CACHE APP PROPERTY STRINGS baremetal_blink STM32F407_FreeRTOS_multisensors)
 
 set(MCU_FLAGS
     -mcpu=cortex-m4
@@ -43,6 +43,10 @@ set(HAL_SOURCES
 
 set(BSP_SOURCES
     bsp/src/board.c
+    bsp/src/bsp_adc.c
+    bsp/src/bsp_debug_uart.c
+    bsp/src/bsp_i2c.c
+    bsp/src/bsp_time.c
     core/src/syscalls.c
     startup/startup_stm32f407xx.s
 )
@@ -65,18 +69,33 @@ if(APP STREQUAL "baremetal_blink")
         core/src/interrupts_baremetal.c
     )
     set(APP_INCLUDES)
-elseif(APP STREQUAL "freertos_blink")
+elseif(APP STREQUAL "STM32F407_FreeRTOS_multisensors")
     set(APP_SOURCES
-        app/freertos_blink/main.c
+        app/STM32F407_FreeRTOS_multisensors/main.c
+        app/STM32F407_FreeRTOS_multisensors/app_command.c
+        app/STM32F407_FreeRTOS_multisensors/app_comm.c
+        app/STM32F407_FreeRTOS_multisensors/app_control.c
+        app/STM32F407_FreeRTOS_multisensors/app_health.c
+        app/STM32F407_FreeRTOS_multisensors/app_observe.c
+        app/STM32F407_FreeRTOS_multisensors/app_power.c
+        app/STM32F407_FreeRTOS_multisensors/app_protocol.c
+        app/STM32F407_FreeRTOS_multisensors/app_sensor.c
+        app/STM32F407_FreeRTOS_multisensors/app_snapshot.c
         core/src/interrupts_freertos.c
+        drivers/src/dht11.c
+        drivers/src/mpu6050.c
+        drivers/src/st7735s_tft.c
+        drivers/src/vl53l0x.c
         ${FREERTOS_SOURCES}
     )
     set(APP_INCLUDES
         ${CMAKE_CURRENT_SOURCE_DIR}/third_party/FreeRTOS/Source/include
         ${CMAKE_CURRENT_SOURCE_DIR}/third_party/FreeRTOS/Source/portable/GCC/ARM_CM3
+        ${CMAKE_CURRENT_SOURCE_DIR}/app/STM32F407_FreeRTOS_multisensors
+        ${CMAKE_CURRENT_SOURCE_DIR}/drivers/include
     )
 else()
-    message(FATAL_ERROR "Unknown APP='${APP}'. Use baremetal_blink or freertos_blink.")
+    message(FATAL_ERROR "Unknown APP='${APP}'. Use baremetal_blink or STM32F407_FreeRTOS_multisensors.")
 endif()
 
 add_executable(${PROJECT_NAME}.elf

@@ -12,4 +12,5 @@ void Board_LED_Init(void);
 void Board_LED_On(void);
 void Board_LED_Off(void);
 void Board_LED_Toggle(void);
+void Board_LED_Release(void);
 void Board_Error_Handler(void);
